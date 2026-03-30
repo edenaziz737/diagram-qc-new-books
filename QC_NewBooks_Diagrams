@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.6">
   <diagram id="etyHGRFTmmLbl-aF8mRa" name="Part A — Flowchart">
-    <mxGraphModel dx="1770" dy="999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="603" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lwWbEY84QLiPywofmSOT-4" parent="1" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#d0cee2;strokeColor=#56517e;fontStyle=1;fontFamily=Times New Roman;align=center;" value="&lt;font&gt;START&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="125" x="369" y="46" as="geometry" />
+          <mxGeometry height="56" width="121" x="371" y="50" as="geometry" />
         </mxCell>
         <mxCell id="lwWbEY84QLiPywofmSOT-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font&gt;User Clicks &quot;Post Entry&quot;&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="221" x="321" y="140" as="geometry" />
@@ -116,16 +116,14 @@
         <mxCell id="lwWbEY84QLiPywofmSOT-57" edge="1" parent="1" source="lwWbEY84QLiPywofmSOT-53" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="lwWbEY84QLiPywofmSOT-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lwWbEY84QLiPywofmSOT-58" connectable="0" parent="lwWbEY84QLiPywofmSOT-57" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontFamily=Times New Roman;fontStyle=1" value="Yes" vertex="1">
-          <mxGeometry relative="1" x="0.2404" as="geometry">
-            <mxPoint y="-11" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="lwWbEY84QLiPywofmSOT-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font&gt;Save Entry to Database&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="221" x="321" y="720" as="geometry" />
         </mxCell>
         <mxCell id="lwWbEY84QLiPywofmSOT-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font&gt;Clear Form &amp;amp; Refresh Register&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="221" x="321" y="830" as="geometry" />
+          <mxGeometry height="60" width="221" x="321" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="lwWbEY84QLiPywofmSOT-60" parent="1" style="strokeWidth=2;shape=mxgraph.flowchart.decision;fillColor=#fad9d5;strokeColor=#ae4132;verticalAlign=middle;autosizeText=0;fontSize=13;convertToSvg=0;align=center;fontFamily=Times New Roman;fontStyle=1;spacing=2;whiteSpace=wrap;" value="Total Debits = Total&#xa; Credits?" vertex="1">
+          <mxGeometry height="100" width="168" x="347.5" y="920" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
