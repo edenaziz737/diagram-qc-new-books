@@ -159,12 +159,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BSaCj6tifPO7D9Q1iOcz" name="Part B — ERD">
-    <mxGraphModel dx="1812" dy="1598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1294" dy="1141" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kOcQymGu4TsOKELNPayT-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontFamily=Times New Roman;fontColor=#000000;labelBackgroundColor=default;fontStyle=1" value="&lt;span style=&quot;text-align: start;&quot;&gt;QC NewBooks — Database Structure&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="330" x="417" y="3" as="geometry" />
+          <mxGeometry height="30" width="330" x="402" y="3" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
